@@ -165,9 +165,9 @@ header {
 .sale-tag {
   position: absolute;
   background-color: #2c2e2f;
-  width: 22%;
-  height: 4%;
-  left: -8%;
+  width: 16%;
+  height: 5%;
+  left: -6%;
   top: 5%;
   transform: rotate(-90deg);
   display: flex;
